@@ -18,6 +18,7 @@
   <style name="String" foreground="#d69545"/>
   <style name="Type" foreground="#ff8080"/>
   <style name="Local" foreground="#d6bb9a"/>
+  <style name="Parameter" foreground="#458fd0"/>
   <style name="Global" foreground="#9aa7d6"/>
   <style name="Field" foreground="#17a156"/>
   <style name="Static" foreground="#66a334" italic="true"/>
